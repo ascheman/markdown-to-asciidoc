@@ -418,6 +418,14 @@ This is an automatic link <http://www.w3.org/>
 
 *   Suspendisse id sem consectetuer libero luctus adipiscing.
 
+
+# unordered list without separator before first line
+
+This is my typical list without any empty line for separation
+- first item
+- second item
+- third item
+
 # ordered-list-escaped
 
 1\. ordered list escape
